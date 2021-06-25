@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GameStartActivity!</string>
+    <string name="app_name">GamePlan</string>
+    <string name="zhizuo">制作人员</string>
+    <string name="zhou">周仕扬</string>
+
+</resources>
